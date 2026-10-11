@@ -1,5 +1,0 @@
-Student Name: Samson Baraka Otieno
-What changed: I appended a new section titled "How I use Git carefully" to the README.md file.
-How I verified the change: I ran git status to confirm only intended files were modified and visually checked the formatting.
-One possible improvement a reviewer might suggest: A reviewer might suggest adding concrete examples for each habit.
-Professional response I would give: Thank you for the suggestion, I agree it would add clarity and I will include examples in a future commit.
