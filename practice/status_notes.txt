@@ -1,0 +1,9 @@
+Student Name: Samson Baraka
+
+
+What I check before committing:
+I always run git status to ensure that the specific files I intend to commit are staged. I also enusre that no non-essential untracked files, logs or secret files such as .env .api are not exposed. I then ensure to go through those specific files to see if they are correctly identified to the changes i made.
+
+What I am committing now and why:
+I am committing the status_notes.txt file to complete a requirement of ensuring to record and inspect before commit habits.
+
