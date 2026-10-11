@@ -1,0 +1,11 @@
+Student Name: [Your first and last name]
+
+Commit 1 purpose:
+document my small-commit plan
+
+Commit 2 purpose:
+record my inspect-before-commit habit
+
+Why smaller commits are better than one giant commit:
+They are more clearer which offer easier code readability. It enhances easier understanding of code changes. Finally it offers conciseness that makes easier for comprehension.
+
