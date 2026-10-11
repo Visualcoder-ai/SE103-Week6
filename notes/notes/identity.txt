@@ -1,0 +1,5 @@
+Full Name: Samson Baraka Otieno
+GitHub Username: Visualcoder-ai
+Date Started: October 11, 2026
+Auth Method: PAT
+One Git habit I want to improve: I want to practice inspecting my files with git status before committing.
