@@ -3,3 +3,4 @@ What changed: I appended a new section titled "How I use Git carefully" to the R
 How I verified the change: I reviewed the README.md file locally to ensure the new section was formatted correctly in Markdown. I also ran git status to confirm only the intended files were modified.
 One possible improvement a reviewer might suggest: A reviewer might suggest adding a brief description or concrete examples for each of the listed habits to provide more context for outside readers.
 Professional response I would give: Thank you for the suggestion! I agree that adding a short example for each habit would improve clarity, and I will include that in a follow-up commit.
+
