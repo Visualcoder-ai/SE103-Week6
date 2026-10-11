@@ -1,0 +1,4 @@
+Student Name: Samson Baraka 
+Patterns in my .gitignore: .DS_Store *.log temp/ secret.env
+What git status showed about the ignored files: When I ran git status, the untracked files secret.env, practice/app.log, and the temp/ directory did not appear in the output at all. Instead, only the newly created .gitignore and evidence/gitignore_proof.txt files were shown as untracked. This proves that Git is successfully ignoring the files and directories specified in the .gitignore configuration.
+Why committing secrets is dangerous: Committing secrets like API keys or passwords is very dangerous because repository history is permanent. If a bad actor gains access to these credentials, they can access sensitive user data, breach internal systems, or run up massive bills on cloud services. Furthermore, once a secret is pushed, even if the file is later deleted in a new commit, the secret remains permanently exposed in the Git history.
