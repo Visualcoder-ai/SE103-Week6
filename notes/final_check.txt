@@ -1,7 +1,7 @@
 Student Name: Samson Baraka Otieno
 GitHub Username: Visualcoder-ai
-Repository: SE103-Week6
-Repository URL: https://github.com/Visualcoder-ai/SE103-Week6
+Repository: SE111093805231093803-Week6
+Repository URL: https://github.com/Visualcoder-ai/SE111093805231093803-Week6
 Git habits I demonstrated this week: This week, I practiced breaking down my work into smaller, focused commits instead of grouping everything into one massive change. I also made it a strict habit to run git status before staging and committing files to ensure no unintended files were included. Furthermore, I learned how to use a .gitignore file to keep sensitive secrets and temporary logs out of my version control history. Finally, I focused on writing clear, imperative commit messages and successfully opened and merged a pull request on GitHub.
 One mistake-prevention habit I will keep: The most critical mistake-prevention habit I will maintain is strictly inspecting my staging area with git status before every commit. This ensures that I never accidentally leak sensitive environment variables or commit broken files to the shared repository.
 All required files are on main: Yes
