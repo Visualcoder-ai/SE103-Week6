@@ -1,0 +1,17 @@
+Student Name: Samson Baraka Otieno
+
+Weak message 1: updates
+Improved message 1: update user authentication logic
+Why this is better: It specifies exactly what was updated, providing clear context to other developers reviewing the commit history rather than a vague action.
+
+Weak message 2: final final
+Improved message 2: fix syntax error in database config
+Why this is better: "final final" tells the reviewer nothing about the actual code change. This rewrite explicitly states the specific bug that was fixed.
+
+Weak message 3: stuff
+Improved message 3: add CSS styling for the navigation bar
+Why this is better: "stuff" is completely ambiguous. The rewrite clarifies exactly what area of the codebase was modified and what was added.
+
+My personal commit message rule: I will always start my commit messages with an imperative verb (e.g., add, fix, update) followed by a brief, specific description of the change made. If more context is needed, I will include a detailed body explaining the "why" behind the change.
+
+
